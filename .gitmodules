@@ -1,0 +1,9 @@
+[submodule "admin-ui"]
+	path = admin-ui
+	url = https://github.com/amalb1729/miniProjectAdmin.git
+[submodule "user-ui"]
+	path = user-ui
+	url = https://github.com/amalb1729/miniProjectUser.git
+[submodule "server"]
+	path = server
+	url = https://github.com/amalb1729/miniProjectServer.git
